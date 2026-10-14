@@ -34,8 +34,5 @@ Install Scapy with:
 ## Limitations
 Service labels are inferred from port numbers and may not identify every application correctly. HTTPS payloads remain encrypted. Inspect only traffic you are authorized to analyze.
 
-## Credits
-Inspired by the Packet_analyzer project:
-https://github.com/perryvegehan/Packet_analyzer
 
 This version includes my own modifications and learning exercises.
